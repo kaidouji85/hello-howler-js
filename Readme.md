@@ -9,5 +9,5 @@ cd <本リポジトリをcloneした場所>
 npm install
 npm start
 # ブラウザでlocalhost:8080を開く
-# click to play というボタンを押せば音が鳴る
+# 画面に表示されているボタンを押すと音が鳴る
 ``` 
